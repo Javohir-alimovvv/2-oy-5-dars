@@ -1,0 +1,15 @@
+*{
+    margin:0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+.fa-truck-pickup{
+    margin-top: 50px;
+    margin-left: 100px;
+    
+    color: gray;
+}
+.fa-truck-pickup:hover{
+    cursor: pointer;
+    color: black;
+}
